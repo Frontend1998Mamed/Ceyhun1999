@@ -35,7 +35,6 @@
 <a href="https://t.me/Jeyhun_Rzayev" target="_blank"><img src="https://img.shields.io/badge/Telegram-323330?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ceyhun-rzayev" target="_blank"><img src="https://img.shields.io/badge/linkedin-%23323330.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-* ✉️ [ceyhun.rzayeev@gmail.com](mailto:ceyhun.rzayeev@gmail.com)
 
 
                                                                 
