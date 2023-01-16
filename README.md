@@ -1,4 +1,4 @@
-
+ 
 <h1  align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=32&duration=4000&color=59A5FE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Jeyhun;I'm+FrontEnd+Developer" width="320"> 
 </h1>
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/photopea-%23323330.svg?style=for-the-badge&logo=photopea&logoColor=white">
  </div> 
-
+  
 &nbsp;  
 ### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
   - Bachelor of ASOIU
