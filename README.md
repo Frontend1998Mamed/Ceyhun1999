@@ -29,6 +29,7 @@
     - Frontend Development (Algorithmics)
     - Frontend Development (Div Academy)
     - HTML/CSS (AzTU)
+    - HTML/CSS (Beonmax(self-study))
 
 ### 📱 Contact 𝚖𝚎:
 <a href="mailto:ceyhun.rzayeev@gmail.com" target="_blank"><img style="inline" src="https://img.shields.io/badge/Gmail-323330?style=for-the-badge&logo=gmail&logoColor=white"></a> 
