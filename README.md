@@ -33,6 +33,7 @@
   - Courses
     - Frontend Development (Algorithmics)
     - Frontend Development (Div Academy)
+    - JavaScript (Beonmax(self-study))
     - Web Developepment (Beonmax(self-study))
     - HTML/CSS (AzTU)
     - HTML/CSS (Beonmax(self-study))
