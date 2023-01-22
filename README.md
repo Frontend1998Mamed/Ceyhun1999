@@ -31,7 +31,7 @@
 ### 🎓 𝙴𝚍𝚞𝚌𝚊𝚝𝚒𝚘𝚗:
   - Bachelor of ASOIU
   - Courses
-    - Frontend Development (Algorithmics)
+    - Frontend Development (Algorithmics Global)
     - Frontend Development (Div Academy)
     - JavaScript (Beonmax)
     - Web Developepment (Beonmax)
