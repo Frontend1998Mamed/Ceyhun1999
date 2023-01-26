@@ -50,7 +50,7 @@
              
              
              
-<a href="https://github.com/Ceyhun1999" align="left"><img src="https://readme-stats.clckblog.space/api/top-langs/?username=Ceyhun1999&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 
 
 
